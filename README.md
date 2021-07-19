@@ -3,6 +3,7 @@
  Topic which i feel important
  - [ ] Read [Dp on Trees ](https://codeforces.com/blog/entry/20935)
  - [ ] Read [Sum of Subset ](https://codeforces.com/blog/entry/45223)
+ - [ ] Read [Striver Interview Sheet](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/preview?pru=AAABeq6sLWk*IuA0l2hcMxzdKwPoHaJ2dg#)
 # Month 1
 
 ## Week 1
