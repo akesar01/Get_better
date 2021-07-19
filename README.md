@@ -1,5 +1,7 @@
 # Get_Better_CP_in_2_Months
-
+ # Week 0
+ Topic which i feel important
+ - [ ] Read [Dp on Trees ](https://codeforces.com/blog/entry/20935)
 # Month 1
 
 ## Week 1
