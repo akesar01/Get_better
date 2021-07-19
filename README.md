@@ -2,7 +2,7 @@
  # Week 0
  Topic which i feel important
  - [ ] Read [Dp on Trees ](https://codeforces.com/blog/entry/20935)
- - [ ] [Sum of Subset ](https://codeforces.com/blog/entry/45223)
+ - [ ] Read [Sum of Subset ](https://codeforces.com/blog/entry/45223)
 # Month 1
 
 ## Week 1
